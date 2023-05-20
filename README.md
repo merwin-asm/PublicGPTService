@@ -1,6 +1,9 @@
 # PublicGPTService
 PublicGPTService || Free GPT3 API || Darkmash
 
+<img src="https://komarev.com/ghpvc/?username=merwin-gpt&label=Project%20Views-Github&color=0e75b6&style=flat" alt="darkmash-org" /> 
+
+
 
   <h4>Public GPT API ~ by darkmash<br></h4>
 
